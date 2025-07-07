@@ -1,0 +1,9 @@
+.github
+assets
+build
+.env
+.gitignore
+.golangci.yaml
+.goreleaser.yaml
+Dockerfile
+Makefile
